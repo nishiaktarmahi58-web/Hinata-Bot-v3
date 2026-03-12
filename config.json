@@ -1,5 +1,5 @@
 {
-   "author": ["𝐀𝐃𝐍𝐀𝐍"],
+   "author": ["MahMUD"],
     "facebookAccount": {
     "email": "mahmudx077@gmail.com",
     "password": "",
@@ -18,14 +18,14 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "61586612163147"
+    "100037951718438"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🕊️🐸মাহি বট🐸🤰",
+  "nickNameBot": "HinataBot V3",
   "prefix": "!",
   "database": {
     "type": "sqlite",
